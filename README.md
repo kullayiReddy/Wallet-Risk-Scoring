@@ -29,6 +29,9 @@ Each feature is normalized and weighted:
 - `Wallet_id.xlsx`: Raw input data (moved to `data/` folder).
 - `wallet_scores.csv`: Output scores (in `output/` folder).
 
+## Verify for the colab Link 
+https://colab.research.google.com/drive/137ZnLK518FmhZVWotBafyLonD2uGgtAn?usp=sharing
+
 ## 📦 Requirements
 
 Install dependencies using:
